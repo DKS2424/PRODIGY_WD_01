@@ -9,9 +9,10 @@ Dynamic Color Change: The navigation bar changes color as the user scrolls, offe
 
 
 Technologies Used:-
-HTML
-CSS
-JavaScript
+HTML,
+CSS,
+Bootstarp,
+JavaScript.
 
 
 How to Use:-
